@@ -14,7 +14,7 @@ int main()
 
 string Isabel = " Hello !" ;
 
-cout << string << endl;
+cout << Isabel << endl;
 
 return 0;
 
